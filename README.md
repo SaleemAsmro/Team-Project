@@ -1,4 +1,4 @@
-This project builds a machine learning model to classify if a person has heart diseases based on provided input to help in early detections.
+This project builds a machine learning model to classify if a person has a chance of a heart failure based on provided input to help in early detections.
 
 To run this application:
 1) Simply download all the attached python files alongside the .csv files.
