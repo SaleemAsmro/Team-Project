@@ -1,0 +1,21 @@
+Libraries used:
+
+
+
+pandas: for data loading and manipulation
+
+numpy: for numerical operations
+
+scikit-learn (sklearn):
+
+	-train_test_split: to split dataset into training and test sets
+
+	-StandardScaler: to scale numerical features
+
+	`LogisticRegression: for training the classification model
+
+	`accuracy_score, classification_report: for model evaluation
+
+joblib: for saving and loading the trained model and scaler
+
+streamlit: for building the interactive GUI (input form and prediction display)
